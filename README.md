@@ -23,3 +23,4 @@ This sentiment analysis project is applicable in areas such as brand reputation 
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/84438f06-3555-434d-86fb-8cffd29ed830)
